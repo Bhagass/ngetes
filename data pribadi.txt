@@ -1,0 +1,5 @@
+datapribadi:
+nama bagas
+umur 19
+lahir jakarta
+tinggal depok
